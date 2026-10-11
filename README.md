@@ -16,4 +16,4 @@ For Forsaken Linux Lite Wallpapers run sudo mv "/home/username/Forsaken-Wallpape
 
 If you have only /usr/share/wallpapers sudo mv "/home/username/Forsaken-Wallpapers/Forsaken-Wallpapers/Forsaken Linux Lite" /usr/share/wallpapers
 
-After you finish moving either Forsaken Linux Wallpaper or Forsaken Linux Lite Wallpaper remove The Forsaken-Wallpapers Folder by typing sudo rm /home/username/Forsaken-Wallpapers
+After you finish moving either Forsaken Linux Wallpaper or Forsaken Linux Lite Wallpaper remove The Forsaken-Wallpapers Folder by typing sudo rm -rf /home/username/Forsaken-Wallpapers
